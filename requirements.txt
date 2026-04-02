@@ -1,0 +1,8 @@
+pandas
+matplotlib
+numpy
+edge-tts
+pypdf
+pymupdf
+openpyxl
+pillow
