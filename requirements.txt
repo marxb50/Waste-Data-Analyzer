@@ -1,8 +1,1 @@
-pandas
-matplotlib
-numpy
-edge-tts
-pypdf
-pymupdf
-openpyxl
-pillow
+pypdf>=5.0,<7.0

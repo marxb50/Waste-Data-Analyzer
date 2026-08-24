@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "waste-data-analyzer"
+version = "0.1.0"
+description = "Privacy-safe waste collection analytics and reporting reference workflow."
+requires-python = ">=3.10"
+dependencies = ["pypdf>=5.0,<7.0"]
+
