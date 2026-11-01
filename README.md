@@ -1,3 +1,5 @@
+![Waste-Data-Analyzer Preview](docs/preview.png)
+
 # Waste Data Analyzer
 
 Pipeline Python para normalizar registros de pesagem, calcular indicadores de coleta e gerar relatórios operacionais auditáveis.
